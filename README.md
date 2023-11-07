@@ -8,4 +8,18 @@
 ===========================================================================<br><br>
 
 # Ini lah Output nya <br> <br>
+
+
+<p>
+<b>Silahkan Klik Gambar Di Bawah Ini &#128071 &#128071 &#128071</b>
+</p>
+
+
+ 
 [![Alt teks](https://img.youtube.com/vi/C4AsZYIj_2g/0.jpg)](https://www.youtube.com/watch?v=C4AsZYIj_2g)
+
+===========================================================================<br>
+<p align="center">
+ &#128640  TERIMA KASIH</b> &#128640 <br> 
+</p>
+===========================================================================<br><br>
