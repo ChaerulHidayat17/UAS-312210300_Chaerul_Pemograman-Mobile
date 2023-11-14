@@ -7,7 +7,7 @@
 </p>
 ===========================================================================<br><br>
 
-# Ini lah Output nya <br> <br>
+# Di bawah ini adalah video penejelasan dan hasil output nya  <br> <br>
 
 
 <p>
@@ -16,7 +16,7 @@
 
 
  
-[![Alt teks](https://img.youtube.com/vi/C4AsZYIj_2g/0.jpg)](https://www.youtube.com/watch?v=C4AsZYIj_2g)
+[![Alt teks](https://img.youtube.com/vi/CpzYqf9OGXdk/0.jpg)](https://www.youtube.com/watch?v=CpzYqf9OGXdk)
 
 ===========================================================================<br>
 <p align="center">
