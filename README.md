@@ -16,7 +16,14 @@
 
 
  
-<iframe src="https://https://www.youtube.com/watch?v=pzYqf9OGXdk" width="640" height="480" frameborder="0" allowfullscreen></iframe>
+
+
+
+
+[![Demo Video](https://img.youtube.com/vi/pzYqf9OGXdk/0.jpg)](https://www.youtube.com/watch?v=ypzYqf9OGXdk)
+
+Klik gambar di atas untuk menonton video demo.
+
 
 
 ===========================================================================<br>
