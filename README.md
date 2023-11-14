@@ -20,7 +20,7 @@
 
 
 
-[![Demo Video](https://img.youtube.com/vi/pzYqf9OGXdk/0.jpg)](https://www.youtube.com/watch?v=ypzYqf9OGXdk)
+[![Demo Video](https://img.youtube.com/vi/pzYqf9OGXdk/0.jpg)](https://www.youtube.com/watch?v=pzYqf9OGXdk)
 
 Klik gambar di atas untuk menonton video demo.
 
