@@ -25,8 +25,9 @@ Activity ini berisi sebuah pesan yang berupa string ada di halaman kosong
 # Activity Count
 Berisi sebuah project atau program untuk menghitung max angka fibonacci dan angka nya di masukin oleh user
 
-
-
-
-https://github.com/ChaerulHidayat17/UAS-312210300_Chaerul_Pemograman-Mobile/assets/111425171/ee170a1d-a9b6-477f-93b4-c55a460b6238
+https://github.com/ChaerulHidayat17/UAS-312210300_Chaerul_Pemograman-Mobile/assets/111425171/ee170a1d-a9b6-477f-93b4-c55a460b6238<br>
+------------------------------------------------------------------------------------------------------------------------------------------<br>
+# Activity Scrollice / Berita
+Activity ini berisi sebuah berita atau artikel yang kita buat sendiri dan bisa di scroll
+![photo1705414694 (2)](https://github.com/ChaerulHidayat17/UAS-312210300_Chaerul_Pemograman-Mobile/assets/111425171/889ca63a-7669-4c01-8cfa-3fcbaec14fb5)
 
