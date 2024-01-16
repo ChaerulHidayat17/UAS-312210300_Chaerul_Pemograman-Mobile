@@ -20,4 +20,4 @@ Menu ini berisi activity hello, activity count, activity scrollice, activity mes
 # Activity Hello 
 Activity ini berisi sebuah pesan yang berupa string ada di halaman kosong
 
-![smartmockups_lrggcprm](https://github.com/ChaerulHidayat17/UAS-312210300_Chaerul_Pemograman-Mobile/assets/111425171/ed6228bc-2ffc-430e-b2dc-0704e98cfb50)<br>
+![smartmockups_lrggqdc1](https://github.com/ChaerulHidayat17/UAS-312210300_Chaerul_Pemograman-Mobile/assets/111425171/feaef4ee-f3db-40f5-81a3-6b9951a7bbe1)
