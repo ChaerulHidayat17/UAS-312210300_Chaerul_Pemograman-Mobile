@@ -7,29 +7,7 @@
 </p>
 ===========================================================================<br><br>
 
-# Di bawah ini adalah video penejelasan dan hasil output nya  <br> <br>
-
-
-<p>
-<b>Silahkan Klik Gambar Di Bawah Ini &#128071 &#128071 &#128071</b>
-</p>
-
-
-
- 
-
-
-
-
-
-[![Demo Video](https://img.youtube.com/vi/pzYqf9OGXdk/0.jpg)](https://www.youtube.com/watch?v=pzYqf9OGXdk)
-
-Klik gambar di atas untuk menonton video demo.
-
-
-
-===========================================================================<br>
-<p align="center">
- &#128640  TERIMA KASIH</b> &#128640 <br> 
-</p>
-===========================================================================<br><br>
+# Dokumentasi / Penjelasan Dari Project Ini 
+----------------------------------------------------------------------------<br>
+# Tampilan Home Page / Menu
+----------------------------------------------------------------------------<br>
