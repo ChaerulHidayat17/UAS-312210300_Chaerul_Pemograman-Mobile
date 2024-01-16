@@ -24,5 +24,6 @@ Activity ini berisi sebuah pesan yang berupa string ada di halaman kosong
 ------------------------------------------------------------------------------------------------------------------------------------------<br>
 # Activity Count
 Berisi sebuah project atau program untuk menghitung max angka fibonacci dan angka nya di masukin oleh user
-https://github.com/ChaerulHidayat17/UAS-312210300_Chaerul_Pemograman-Mobile/assets/111425171/f9c75101-17ce-47e2-944a-1571d758694d
+
+[https://github.com/ChaerulHidayat17/UAS-312210300_Chaerul_Pemograman-Mobile/assets/111425171/f9c75101-17ce-47e2-944a-1571d758694d](https://github-production-user-asset-6210df.s3.amazonaws.com/111425171/297093680-f9c75101-17ce-47e2-944a-1571d758694d.mp4?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20240116%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20240116T145500Z&X-Amz-Expires=300&X-Amz-Signature=36e3c080457166d6fc0a43ad624c775995b8cdee3d3c058d6fb259b1b595bda1&X-Amz-SignedHeaders=host&actor_id=111425171&key_id=0&repo_id=715649984)https://github-production-user-asset-6210df.s3.amazonaws.com/111425171/297093680-f9c75101-17ce-47e2-944a-1571d758694d.mp4?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20240116%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20240116T145500Z&X-Amz-Expires=300&X-Amz-Signature=36e3c080457166d6fc0a43ad624c775995b8cdee3d3c058d6fb259b1b595bda1&X-Amz-SignedHeaders=host&actor_id=111425171&key_id=0&repo_id=715649984
 
