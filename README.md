@@ -27,7 +27,11 @@ Berisi sebuah project atau program untuk menghitung max angka fibonacci dan angk
 
 
 
-https://github.com/ChaerulHidayat17/UAS-312210300_Chaerul_Pemograman-Mobile/assets/111425171/ee170a1d-a9b6-477f-93b4-c55a460b6238<br>
+
+
+https://github.com/ChaerulHidayat17/UAS-312210300_Chaerul_Pemograman-Mobile/assets/111425171/843387b1-4571-4ff4-85f7-688b4a18112f
+
+
 ------------------------------------------------------------------------------------------------------------------------------------------<br>
 # Activity Scrollice / Berita
 Activity ini berisi sebuah berita atau artikel yang kita buat sendiri dan bisa di scroll
