@@ -35,6 +35,16 @@ Activity ini berisi sebuah berita atau artikel yang kita buat sendiri dan bisa d
 -------------------------------------------------------------------------------------------------------------------------------------------<br>
 # Activity One dan Activity Two
 Kedua activity ini saling berhubungan jika menekan "send" akan memanggil activity kedua, begitu juga sebaliknya.
-![smartmockups_lrghmld8](https://github.com/ChaerulHidayat17/UAS-312210300_Chaerul_Pemograman-Mobile/assets/111425171/55ddd682-8630-45ae-82df-d8673324cf84) ![smartmockups_lrghp03j](https://github.com/ChaerulHidayat17/UAS-312210300_Chaerul_Pemograman-Mobile/assets/111425171/69fb3985-e75e-42e0-a924-4b0a13e96a38)
+![smartmockups_lrghmld8](https://github.com/ChaerulHidayat17/UAS-312210300_Chaerul_Pemograman-Mobile/assets/111425171/55ddd682-8630-45ae-82df-d8673324cf84) ![smartmockups_lrghp03j](https://github.com/ChaerulHidayat17/UAS-312210300_Chaerul_Pemograman-Mobile/assets/111425171/69fb3985-e75e-42e0-a924-4b0a13e96a38) <br>
+--------------------------------------------------------------------------------------------------------------------------------------------<br>
+# Activity Alarm 
+Berisi sebuah program alarm yang aktif , cara menggunakan kita pilih jam nya dulu yang mau di buat alarm maka dalam Java AlarmReceiver akan ke trigger dan menerima alarm tersebut yang di set 
+![smartmockups_lrghw71b](https://github.com/ChaerulHidayat17/UAS-312210300_Chaerul_Pemograman-Mobile/assets/111425171/3f1c56de-f720-4a59-a5c4-a1a68c981241) <br>
+------------------------------------------------------------------------------------------------------------------------------------------------------------<br>
+#  Intent Maps
+Ini sendiri memmanggil intent dari google maps nya langsung karena memasukan titik kordinat
+
+
+![smartmockups_lrghyzrw](https://github.com/ChaerulHidayat17/UAS-312210300_Chaerul_Pemograman-Mobile/assets/111425171/e685c9c4-58e1-4126-83a5-9e31423cd692)
 
 
