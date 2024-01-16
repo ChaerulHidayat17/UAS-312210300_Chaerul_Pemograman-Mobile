@@ -31,5 +31,10 @@ https://github.com/ChaerulHidayat17/UAS-312210300_Chaerul_Pemograman-Mobile/asse
 ------------------------------------------------------------------------------------------------------------------------------------------<br>
 # Activity Scrollice / Berita
 Activity ini berisi sebuah berita atau artikel yang kita buat sendiri dan bisa di scroll
-![smartmockups_lrghgod1](https://github.com/ChaerulHidayat17/UAS-312210300_Chaerul_Pemograman-Mobile/assets/111425171/78295bda-fd21-402d-b62d-27618fa48ec0)
+![smartmockups_lrghgod1](https://github.com/ChaerulHidayat17/UAS-312210300_Chaerul_Pemograman-Mobile/assets/111425171/78295bda-fd21-402d-b62d-27618fa48ec0)<br>
+-------------------------------------------------------------------------------------------------------------------------------------------<br>
+# Activity One dan Activity Two
+Kedua activity ini saling berhubungan jika menekan "send" akan memanggil activity kedua, begitu juga sebaliknya.
+![smartmockups_lrghmld8](https://github.com/ChaerulHidayat17/UAS-312210300_Chaerul_Pemograman-Mobile/assets/111425171/55ddd682-8630-45ae-82df-d8673324cf84) ![smartmockups_lrghp03j](https://github.com/ChaerulHidayat17/UAS-312210300_Chaerul_Pemograman-Mobile/assets/111425171/69fb3985-e75e-42e0-a924-4b0a13e96a38)
+
 
