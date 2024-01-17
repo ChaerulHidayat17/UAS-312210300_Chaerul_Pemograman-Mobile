@@ -50,5 +50,21 @@ Ini sendiri memmanggil intent dari google maps nya langsung karena memasukan tit
 
 
 ![smartmockups_lrghyzrw](https://github.com/ChaerulHidayat17/UAS-312210300_Chaerul_Pemograman-Mobile/assets/111425171/e685c9c4-58e1-4126-83a5-9e31423cd692)
+------------------------------------------------------------------------------------------------------------------------------------------------------------<br>
+# Activity Fragment
+Berisi sebuah navbar yang ada 3 tab untuk pindah fragment 
+
+
+
+https://github.com/ChaerulHidayat17/UAS-312210300_Chaerul_Pemograman-Mobile/assets/111425171/cf216498-57de-4dc0-af15-2643f613a41c
+
+
+
+
+https://github.com/ChaerulHidayat17/UAS-312210300_Chaerul_Pemograman-Mobile/assets/111425171/e254408f-98a4-48d4-9799-54e6b445db0f
+
+
+
+https://github.com/ChaerulHidayat17/UAS-312210300_Chaerul_Pemograman-Mobile/assets/111425171/f67394fa-9318-4a8c-ac2c-6bfc7dbd7f15
 
 
