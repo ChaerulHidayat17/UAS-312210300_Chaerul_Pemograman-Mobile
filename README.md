@@ -65,7 +65,10 @@ https://github.com/ChaerulHidayat17/UAS-312210300_Chaerul_Pemograman-Mobile/asse
 
 
 
-https://github.com/ChaerulHidayat17/UAS-312210300_Chaerul_Pemograman-Mobile/assets/111425171/f67394fa-9318-4a8c-ac2c-6bfc7dbd7f15 <br><br>
+https://github.com/ChaerulHidayat17/UAS-312210300_Chaerul_Pemograman-Mobile/assets/111425171/f67394fa-9318-4a8c-ac2c-6bfc7dbd7f15 
+
+
+
 
 
 Link PDF nya 
